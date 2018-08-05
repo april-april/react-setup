@@ -1,1 +1,3 @@
-# Stuff is about to get real
+# Setup for React
+
+Hmm..
